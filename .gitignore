@@ -1,0 +1,5 @@
+/work
+/src
+!*.xci
+!*.xdc
+!*.v
